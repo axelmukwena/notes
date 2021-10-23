@@ -1,2 +1,1 @@
-# notes
-How to do things
+Notes on how to execute repetititve tasks
