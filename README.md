@@ -1,1 +1,1 @@
-Notes on how to execute repetititve tasks
+Notes on how to execute tasks. Please refer to the *Wikis*
